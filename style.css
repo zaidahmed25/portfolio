@@ -1,0 +1,54 @@
+.img-zaid {
+    width: 30vmax;
+    height: 40vmax;
+    border-radius: 140px;
+    object-fit: cover;
+}
+.img-noon {
+    width: 30vmax;
+    height: 20vmax;
+    border-radius: 30px;
+}
+.img-salt-n-pepper {
+    width: 30vmax;
+    height: 20vmax;
+    border-radius: 30px;
+}
+.img-image-gallery {
+    width: 30vmax;
+    height: 20vmax;
+    border-radius: 30px;
+}
+.img-periodic-table {
+    width: 30vmax;
+    height: 20vmax;
+    border-radius: 30px;
+}
+.img-calender {
+    width: 30vmax;
+    height: 20vmax;
+    border-radius: 30px;
+}
+.img-analog {
+    width: 30vmax;
+    height: 20vmax;
+    border-radius: 30px;
+}
+.text-hi {
+    color: rgb(243, 204, 78);
+}
+.bio-div-2 {
+    padding-top: 180px;
+}
+.navbar-bg {
+    background-color: rgb(64, 154, 182);
+}
+.bio-bg {
+    background-color: rgb(31, 74, 129);
+}
+.projects-bg {
+    background-color: rgb(19, 49, 88)
+}
+.cursor-pointer {
+    cursor: pointer;
+}
